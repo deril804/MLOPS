@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/305062488588466967/60a5b74834b548cb8e793e16024c2520/artifacts
+end_time: 1710337133442
+entry_point_name: ''
+experiment_id: '305062488588466967'
+lifecycle_stage: active
+run_id: 60a5b74834b548cb8e793e16024c2520
+run_name: amazing-chimp-810
+run_uuid: 60a5b74834b548cb8e793e16024c2520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710337131492
+status: 3
+tags: []
+user_id: derilxavier
