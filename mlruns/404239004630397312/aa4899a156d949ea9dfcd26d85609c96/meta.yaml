@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/404239004630397312/aa4899a156d949ea9dfcd26d85609c96/artifacts
+end_time: 1710428978238
+entry_point_name: ''
+experiment_id: '404239004630397312'
+lifecycle_stage: active
+run_id: aa4899a156d949ea9dfcd26d85609c96
+run_name: xgboost_models
+run_uuid: aa4899a156d949ea9dfcd26d85609c96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710428978206
+status: 4
+tags: []
+user_id: derilxavier

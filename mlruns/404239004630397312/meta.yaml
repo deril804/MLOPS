@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/404239004630397312
+creation_time: 1710428745675
+experiment_id: '404239004630397312'
+last_update_time: 1710428745675
+lifecycle_stage: active
+name: xgboost-hyperopt
